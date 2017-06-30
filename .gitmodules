@@ -1,0 +1,3 @@
+[submodule "altium-libraries"]
+	path = altium-libraries
+	url = https://github.com/Curtin-Motorsport-Team/altium-libraries.git
