@@ -1,0 +1,25 @@
+Replace Part AMP1 ADS1234 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with ADS1234 from StrainGaugeLib.SchLib
+Replace Part C1 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C2 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C3 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C5 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C11 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C21 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C22 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CADS1 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CADS2 Cap in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part J1 STM32F072CBU6 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with STM32F072CBU6 from CAN_Node.SchLib
+Replace Part L11 Inductor in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L12 Inductor in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part P1 Header 4 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 4 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 4 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part P4 Header 5 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Header 5 from Miscellaneous Connectors.IntLib
+Replace Part R1 Res3 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R2 Res3 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R11 Res3 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R12 Res3 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R21 Res3 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R22 Res3 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part REG1 TPS54395 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with TPS54395 from StrainGaugeLib.SchLib
+Replace Part U1 595-SN65HVD233 in C:\Users\natha\Documents\strain-gauge-ad1234\StrainGuageNode.SchDoc with 595-SN65HVD233 from CAN_Node.SchLib

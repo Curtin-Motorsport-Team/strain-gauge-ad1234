@@ -1,0 +1,175 @@
+Added Component: Designator=AMP1(ADS1234)
+Added Component: Designator=C1(R0805)
+Added Component: Designator=C2(R0805)
+Added Component: Designator=C3(R0805)
+Added Component: Designator=C5(R0805)
+Added Component: Designator=C11(R0805)
+Added Component: Designator=C21(R0805)
+Added Component: Designator=C22(R0805)
+Added Component: Designator=CADS1(R0805)
+Added Component: Designator=CADS2(R0805)
+Added Component: Designator=J1(STM32F072CBU6 - duplicate)
+Added Component: Designator=L11(0402-A)
+Added Component: Designator=L12(0402-A)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P4(HDR1X5)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=R21(R0805)
+Added Component: Designator=R22(R0805)
+Added Component: Designator=REG1(TPS54395)
+Added Component: Designator=U1(SOP8)
+Added Pin To Net: NetName=5V Pin=AMP1-1
+Added Pin To Net: NetName=GND Pin=AMP1-2
+Added Pin To Net: NetName=GND Pin=AMP1-3
+Added Pin To Net: NetName=GND Pin=AMP1-5
+Added Pin To Net: NetName=GND Pin=AMP1-6
+Added Pin To Net: NetName=ASELECT1 Pin=AMP1-7
+Added Pin To Net: NetName=ASELECT0 Pin=AMP1-8
+Added Pin To Net: NetName=NetAMP1_9 Pin=AMP1-9
+Added Pin To Net: NetName=NetAMP1_10 Pin=AMP1-10
+Added Pin To Net: NetName=AINP1 Pin=AMP1-11
+Added Pin To Net: NetName=ANN1 Pin=AMP1-12
+Added Pin To Net: NetName=AINP3 Pin=AMP1-13
+Added Pin To Net: NetName=AINN3 Pin=AMP1-14
+Added Pin To Net: NetName=AINN4 Pin=AMP1-15
+Added Pin To Net: NetName=AINP4 Pin=AMP1-16
+Added Pin To Net: NetName=AINN2 Pin=AMP1-17
+Added Pin To Net: NetName=AINP2 Pin=AMP1-18
+Added Pin To Net: NetName=GND Pin=AMP1-19
+Added Pin To Net: NetName=5V Pin=AMP1-20
+Added Pin To Net: NetName=GND Pin=AMP1-21
+Added Pin To Net: NetName=5V Pin=AMP1-22
+Added Pin To Net: NetName=GAIN0 Pin=AMP1-23
+Added Pin To Net: NetName=GAIN1 Pin=AMP1-24
+Added Pin To Net: NetName=SPEED Pin=AMP1-25
+Added Pin To Net: NetName=PWDN Pin=AMP1-26
+Added Pin To Net: NetName=SCLK Pin=AMP1-27
+Added Pin To Net: NetName=SOMI Pin=AMP1-28
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=V BATT Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=V BATT Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3_3V Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=5V Pin=C22-2
+Added Pin To Net: NetName=NetAMP1_10 Pin=CADS1-1
+Added Pin To Net: NetName=NetAMP1_9 Pin=CADS1-2
+Added Pin To Net: NetName=5V Pin=CADS2-1
+Added Pin To Net: NetName=GND Pin=CADS2-2
+Added Pin To Net: NetName=3_3V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=3_3V Pin=J1-9
+Added Pin To Net: NetName=SCLK Pin=J1-15
+Added Pin To Net: NetName=SOMI Pin=J1-16
+Added Pin To Net: NetName=ASELECT0 Pin=J1-18
+Added Pin To Net: NetName=ASELECT1 Pin=J1-19
+Added Pin To Net: NetName=GAIN0 Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=3_3V Pin=J1-24
+Added Pin To Net: NetName=SWCLK Pin=J1-30
+Added Pin To Net: NetName=SWDIO Pin=J1-31
+Added Pin To Net: NetName=CAN TX Pin=J1-32
+Added Pin To Net: NetName=CAN RX Pin=J1-33
+Added Pin To Net: NetName=NRST Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-35
+Added Pin To Net: NetName=3_3V Pin=J1-36
+Added Pin To Net: NetName=GAIN1 Pin=J1-39
+Added Pin To Net: NetName=PWDN Pin=J1-40
+Added Pin To Net: NetName=SPEED Pin=J1-41
+Added Pin To Net: NetName=NetJ1_44 Pin=J1-44
+Added Pin To Net: NetName=GND Pin=J1-47
+Added Pin To Net: NetName=3_3V Pin=J1-48
+Added Pin To Net: NetName=GND Pin=J1-49
+Added Pin To Net: NetName=3_3V Pin=L11-1
+Added Pin To Net: NetName=NetC11_2 Pin=L11-2
+Added Pin To Net: NetName=5V Pin=L12-1
+Added Pin To Net: NetName=NetC1_2 Pin=L12-2
+Added Pin To Net: NetName=V BATT Pin=P1-1
+Added Pin To Net: NetName=CAN H Pin=P1-2
+Added Pin To Net: NetName=CAN L Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=AINN2 Pin=P2-1
+Added Pin To Net: NetName=AINP2 Pin=P2-2
+Added Pin To Net: NetName=AINN1 Pin=P2-3
+Added Pin To Net: NetName=AINP1 Pin=P2-4
+Added Pin To Net: NetName=AINN4 Pin=P3-1
+Added Pin To Net: NetName=AINP4 Pin=P3-2
+Added Pin To Net: NetName=AINN3 Pin=P3-3
+Added Pin To Net: NetName=AINP3 Pin=P3-4
+Added Pin To Net: NetName=3_3V Pin=P4-1
+Added Pin To Net: NetName=NRST Pin=P4-2
+Added Pin To Net: NetName=SWDIO Pin=P4-3
+Added Pin To Net: NetName=SWCLK Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=CAN L Pin=R1-1
+Added Pin To Net: NetName=CAN H Pin=R1-2
+Added Pin To Net: NetName=NetJ1_44 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=3_3V Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=5V Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=3_3V Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=5V Pin=R22-2
+Added Pin To Net: NetName=V BATT Pin=REG1-1
+Added Pin To Net: NetName=NetC11_1 Pin=REG1-2
+Added Pin To Net: NetName=NetC11_2 Pin=REG1-3
+Added Pin To Net: NetName=GND Pin=REG1-4
+Added Pin To Net: NetName=GND Pin=REG1-6
+Added Pin To Net: NetName=NetR11_2 Pin=REG1-7
+Added Pin To Net: NetName=GND Pin=REG1-8
+Added Pin To Net: NetName=NetC5_1 Pin=REG1-9
+Added Pin To Net: NetName=NetR12_2 Pin=REG1-10
+Added Pin To Net: NetName=GND Pin=REG1-11
+Added Pin To Net: NetName=GND Pin=REG1-13
+Added Pin To Net: NetName=NetC1_2 Pin=REG1-14
+Added Pin To Net: NetName=NetC1_1 Pin=REG1-15
+Added Pin To Net: NetName=V BATT Pin=REG1-16
+Added Pin To Net: NetName=GND Pin=REG1-17
+Added Pin To Net: NetName=CAN TX Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=3_3V Pin=U1-3
+Added Pin To Net: NetName=CAN RX Pin=U1-4
+Added Pin To Net: NetName=CAN L Pin=U1-6
+Added Pin To Net: NetName=CAN H Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Member To Class: ClassName=StrainGuageNode Member=Component AMP1 ADS1234
+Added Member To Class: ClassName=StrainGuageNode Member=Component C1 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component C2 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component C3 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component C5 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component C11 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component C21 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component C22 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component CADS1 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component CADS2 Cap
+Added Member To Class: ClassName=StrainGuageNode Member=Component J1 STM32F072CBU6
+Added Member To Class: ClassName=StrainGuageNode Member=Component L11 Inductor
+Added Member To Class: ClassName=StrainGuageNode Member=Component L12 Inductor
+Added Member To Class: ClassName=StrainGuageNode Member=Component P1 Header 4
+Added Member To Class: ClassName=StrainGuageNode Member=Component P2 Header 4
+Added Member To Class: ClassName=StrainGuageNode Member=Component P3 Header 4
+Added Member To Class: ClassName=StrainGuageNode Member=Component P4 Header 5
+Added Member To Class: ClassName=StrainGuageNode Member=Component R1 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component R2 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component R11 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component R12 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component R21 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component R22 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component REG1 TPS54395
+Added Member To Class: ClassName=StrainGuageNode Member=Component U1 CAN TRANCEIVER
+Added Room: Name=StrainGuageNode

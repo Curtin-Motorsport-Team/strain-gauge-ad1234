@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=R1 Old Footprint=R0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R2 Old Footprint=R0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R11 Old Footprint=R0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R12 Old Footprint=R0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R21 Old Footprint=R0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R22 Old Footprint=R0805 New Footprint=J1-0603
+Change Component Footprint: Designator=C1 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C2 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C5 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C11 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C21 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C22 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=CADS1 Old Footprint=R0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=CADS2 Old Footprint=R0805 New Footprint=RAD-0.3
+Added Component: Designator=AMP1(ADS1234)
+Added Pin To Net: NetName=5V Pin=AMP1-1
+Added Pin To Net: NetName=GND Pin=AMP1-2
+Added Pin To Net: NetName=GND Pin=AMP1-3
+Added Pin To Net: NetName=GND Pin=AMP1-5
+Added Pin To Net: NetName=GND Pin=AMP1-6
+Added Pin To Net: NetName=ASELECT1 Pin=AMP1-7
+Added Pin To Net: NetName=ASELECT0 Pin=AMP1-8
+Added Pin To Net: NetName=NetAMP1_9 Pin=AMP1-9
+Added Pin To Net: NetName=NetAMP1_10 Pin=AMP1-10
+Added Pin To Net: NetName=AINP1 Pin=AMP1-11
+Added Pin To Net: NetName=ANN1 Pin=AMP1-12
+Added Pin To Net: NetName=AINP3 Pin=AMP1-13
+Added Pin To Net: NetName=AINN3 Pin=AMP1-14
+Added Pin To Net: NetName=AINN4 Pin=AMP1-15
+Added Pin To Net: NetName=AINP4 Pin=AMP1-16
+Added Pin To Net: NetName=AINN2 Pin=AMP1-17
+Added Pin To Net: NetName=AINP2 Pin=AMP1-18
+Added Pin To Net: NetName=GND Pin=AMP1-19
+Added Pin To Net: NetName=5V Pin=AMP1-20
+Added Pin To Net: NetName=GND Pin=AMP1-21
+Added Pin To Net: NetName=5V Pin=AMP1-22
+Added Pin To Net: NetName=GAIN0 Pin=AMP1-23
+Added Pin To Net: NetName=GAIN1 Pin=AMP1-24
+Added Pin To Net: NetName=SPEED Pin=AMP1-25
+Added Pin To Net: NetName=PWDN Pin=AMP1-26
+Added Pin To Net: NetName=SCLK Pin=AMP1-27
+Added Pin To Net: NetName=SOMI Pin=AMP1-28
+Added Member To Class: ClassName=StrainGuageNode Member=Component AMP1 ADS1234
+Added Room: Name=StrainGuageNode
