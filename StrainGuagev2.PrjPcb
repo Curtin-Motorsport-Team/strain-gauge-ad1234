@@ -229,6 +229,10 @@ DocumentUniqueId=TNWBYAKV
 DocumentPath=Project Outputs for StrainGuagev2\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for StrainGuagev2\Net Status - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
