@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWDN Pin=J1-21
+Removed Pin From Net: NetName=SPEED Pin=J1-22
+Added Pin To Net: NetName=SPEED Pin=J1-21
+Added Pin To Net: NetName=PWDN Pin=J1-22
+Added Room: Name=StrainGuageNode

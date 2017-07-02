@@ -1,0 +1,45 @@
+Net Status Report
+Filename     : C:\Users\natha\Documents\strain-gauge-ad1234\PCB1.PcbDoc
+Date         : 2/07/2017
+Time         : 5:26:20 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3_3V, Signal Layers Only, 33.7343mm
+    5V, Signal Layers Only, 33.4696mm
+    AINN1, Signal Layers Only, 5.9067mm
+    AINN2, Signal Layers Only, 6.3768mm
+    AINN3, Signal Layers Only, 4.543mm
+    AINN4, Signal Layers Only, 4.8355mm
+    AINP1, Signal Layers Only, 19.3339mm
+    AINP2, Signal Layers Only, 19.0709mm
+    AINP3, Signal Layers Only, 4.897mm
+    AINP4, Signal Layers Only, 4.779mm
+    ASELECT0, Signal Layers Only, 12.7996mm
+    ASELECT1, Signal Layers Only, 11.5362mm
+    CAN H, Signal Layers Only, 27.4336mm
+    CAN L, Signal Layers Only, 21.5365mm
+    CAN RX, Signal Layers Only, 27.4039mm
+    CAN TX, Signal Layers Only, 41.7864mm
+    GAIN0, Signal Layers Only, 9.8182mm
+    GAIN1, Signal Layers Only, 8.5549mm
+    GND, Signal Layers Only, 85.386mm
+    NRST, Signal Layers Only, 7.5322mm
+    NetAMP1_10, Signal Layers Only, 11.7584mm
+    NetAMP1_9, Signal Layers Only, 9.8961mm
+    NetC11_1, Signal Layers Only, 2.3291mm
+    NetC11_2, Signal Layers Only, 51.0945mm
+    NetC1_1, Signal Layers Only, 4.1076mm
+    NetC1_2, Signal Layers Only, 24.6549mm
+    NetC5_1, Signal Layers Only, 2.5959mm
+    NetJ1_44, Signal Layers Only, 4.9753mm
+    NetR11_2, Signal Layers Only, 4.7659mm
+    NetR12_2, Signal Layers Only, 14.5399mm
+    PWDN, Signal Layers Only, 9.4821mm
+    SCLK, Signal Layers Only, 16.0457mm
+    SOMI, Signal Layers Only, 12.2247mm
+    SPEED, Signal Layers Only, 10.7455mm
+    SWCLK, Signal Layers Only, 9.8079mm
+    SWDIO, Signal Layers Only, 9.3903mm
+    V BATT, Signal Layers Only, 13.0079mm
+count : 37

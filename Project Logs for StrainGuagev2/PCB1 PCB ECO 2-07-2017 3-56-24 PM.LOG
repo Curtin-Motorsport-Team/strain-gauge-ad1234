@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=AINN2 Pin=P2-1
+Removed Pin From Net: NetName=AINP2 Pin=P2-2
+Removed Pin From Net: NetName=AINN4 Pin=P2-3
+Removed Pin From Net: NetName=AINP4 Pin=P2-4
+Removed Pin From Net: NetName=AINN1 Pin=P3-1
+Removed Pin From Net: NetName=AINP1 Pin=P3-2
+Removed Pin From Net: NetName=AINN3 Pin=P3-3
+Removed Pin From Net: NetName=AINP3 Pin=P3-4
+Added Pin To Net: NetName=AINP2 Pin=P2-1
+Added Pin To Net: NetName=AINN2 Pin=P2-2
+Added Pin To Net: NetName=AINP4 Pin=P2-3
+Added Pin To Net: NetName=AINN4 Pin=P2-4
+Added Pin To Net: NetName=AINP1 Pin=P3-1
+Added Pin To Net: NetName=AINN1 Pin=P3-2
+Added Pin To Net: NetName=AINP3 Pin=P3-3
+Added Pin To Net: NetName=AINN3 Pin=P3-4
+Added Room: Name=StrainGuageNode

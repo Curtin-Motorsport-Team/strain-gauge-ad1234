@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ASELECT0 Pin=J1-27
+Removed Pin From Net: NetName=ASELECT1 Pin=J1-28
+Added Pin To Net: NetName=ASELECT1 Pin=J1-19
+Added Pin To Net: NetName=ASELECT0 Pin=J1-20
+Added Room: Name=StrainGuageNode
