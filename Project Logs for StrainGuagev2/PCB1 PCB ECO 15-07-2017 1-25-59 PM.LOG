@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=3_3V Pin=C35-2
+Removed Member From Class: ClassName=StrainGuageNode Member=C35
+Added Room: Name=StrainGuageNode

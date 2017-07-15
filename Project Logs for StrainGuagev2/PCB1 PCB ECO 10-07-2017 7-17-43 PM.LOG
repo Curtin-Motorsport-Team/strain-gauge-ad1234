@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=V BATT Pin=REG1-5
+Added Pin To Net: NetName=V BATT Pin=REG1-12
+Added Room: Name=StrainGuageNode

@@ -1,0 +1,9 @@
+Added Component: Designator=L11(Inductor)
+Added Component: Designator=L12(Inductor)
+Added Pin To Net: NetName=3_3V Pin=L11-1
+Added Pin To Net: NetName=NetC11_2 Pin=L11-2
+Added Pin To Net: NetName=5V Pin=L12-1
+Added Pin To Net: NetName=NetC1_2 Pin=L12-2
+Added Member To Class: ClassName=StrainGuageNode Member=Component L11 Inductor
+Added Member To Class: ClassName=StrainGuageNode Member=Component L12 Inductor
+Added Room: Name=StrainGuageNode
