@@ -1,0 +1,33 @@
+Added Component: Designator=RA41(R0805)
+Added Component: Designator=RA42(R0805)
+Added Component: Designator=RA43(R0805)
+Added Component: Designator=RA44(R0805)
+Added Component: Designator=RA45(R0805)
+Added Component: Designator=RA46(R0805)
+Added Component: Designator=RA47(R0805)
+Added Component: Designator=RA48(R0805)
+Added Pin To Net: NetName=AINP4 Pin=RA41-1
+Added Pin To Net: NetName=5V Pin=RA41-2
+Added Pin To Net: NetName=AINP4 Pin=RA42-1
+Added Pin To Net: NetName=GND Pin=RA42-2
+Added Pin To Net: NetName=AINP2 Pin=RA43-1
+Added Pin To Net: NetName=5V Pin=RA43-2
+Added Pin To Net: NetName=AINP2 Pin=RA44-1
+Added Pin To Net: NetName=GND Pin=RA44-2
+Added Pin To Net: NetName=AINP3 Pin=RA45-1
+Added Pin To Net: NetName=5V Pin=RA45-2
+Added Pin To Net: NetName=AINP3 Pin=RA46-1
+Added Pin To Net: NetName=GND Pin=RA46-2
+Added Pin To Net: NetName=AINP1 Pin=RA47-1
+Added Pin To Net: NetName=5V Pin=RA47-2
+Added Pin To Net: NetName=AINP1 Pin=RA48-1
+Added Pin To Net: NetName=GND Pin=RA48-2
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA41 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA42 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA43 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA44 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA45 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA46 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA47 Res3
+Added Member To Class: ClassName=StrainGuageNode Member=Component RA48 Res3
+Added Room: Name=StrainGuageNode
